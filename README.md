@@ -5,7 +5,7 @@ La programmation informatique, pourquoi ? Au cours de mon master, j'ai pu réali
 des équipes vers le changement de process organisationnel du travail, par l'implémentation d'une application digitale permettant de référencer les étapes de travaux de maintenance 
 dans les centrales nucléaires. Cette expérience mélant IHM et process du travail m'a donnée l'envie d'explorer ces concepts à travers la programmation informatique. Mes projets d'orientation professionnelle sont aujourd'hui, la meilleure façon de faire le pont avec mes expériences professionnelles passées, en m'orientant vers le back-end axé sur l'IoT/système embarqué. 
 
-8 choses sur moi :
+7 choses sur moi :
 - 👨‍👧‍👦Passer du temps en famille m'est réconfortant 
 - 🇭🇹Je voue une admiration sans faille pour l'histoire d'Haïti 
 - 🌏Je me passionne pour le Japon, la Corée du Sud et Singapour
