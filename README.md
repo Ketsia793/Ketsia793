@@ -1,7 +1,7 @@
 # Salutations 👋 🖖
 
 Après 5 années d'exercices en tant qu'ergonome IHM - SST, j'ai fait le choix de m'orienter vers le secteur porteur de la tech.
-La programmation informatique, pourquoi ? Au cours de mon master, j'ai pu réaliser une année en tant qu'apprentie ergonome au sein de Vinci Construction France, j'ai pu accompagner 
+La programmation informatique, pourquoi ? Au cours de mon master, j'ai pu réaliser une année en tant qu'apprentie ergonome au sein de Vinci Construction France, j'ai également accompagné
 des équipes vers le changement de process organisationnel du travail, par l'implémentation d'une application digitale permettant de référencer les étapes de travaux de maintenance 
 dans les centrales nucléaires. Cette expérience mélant IHM et process du travail m'a donnée l'envie d'explorer ces concepts à travers la programmation informatique. Mes projets d'orientation professionnelle sont aujourd'hui, la meilleure façon de faire le pont avec mes expériences professionnelles passées, en m'orientant vers le back-end axé sur l'IoT/système embarqué. 
 
