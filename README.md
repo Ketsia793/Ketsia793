@@ -1,4 +1,4 @@
-# Salutations 👋 🖖
+# Salutations 👋🖖
 
 Après 5 années d'exercices en tant qu'ergonome IHM - SST, j'ai fait le choix de m'orienter vers le secteur porteur de la tech.
 La programmation informatique, pourquoi ? Au cours de mon master, j'ai pu réaliser une année en tant qu'apprentie ergonome au sein de Vinci Construction France, j'ai également accompagné
