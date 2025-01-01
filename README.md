@@ -7,7 +7,7 @@ dans les centrales nucléaires. Cette expérience mélant IHM et process du trav
 
 7 choses sur moi :
 - 👨‍👧‍👦Passer du temps en famille m'est réconfortant 
-- 🇭🇹Je voue une admiration sans faille pour l'histoire d'Haïti 
+- 🇭🇹Je voue une admiration sans faille à l'histoire d'Haïti 
 - 🌏Je me passionne pour le Japon, la Corée du Sud et Singapour
 - 🤘Je suis ravie que Linkin Park se soit reformé
 - 🧙La saga Harry Potter n'a pas de secret pour moi 
