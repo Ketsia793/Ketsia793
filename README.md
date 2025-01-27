@@ -10,7 +10,8 @@ dans les centrales nucléaires. Cette expérience mélant IHM et process du trav
 - 🇭🇹Je voue une admiration sans faille à l'histoire d'Haïti 
 - 🌏Je me passionne pour le Japon, la Corée du Sud et Singapour
 - 🤘Je suis ravie que Linkin Park se soit reformé
-- 🧙La saga Harry Potter n'a pas de secret pour moi 
+- 🧙La saga Harry Potter n'a pas de secret pour moi
+- 🎮 Les jeux vidéos d'aventure et de SF sont un monde plein de surprise
 - 🚴‍♀️Pour prendre l'air, le vélo y a rien de mieux 
 - 🍽J'aime prendre le temps de manger
 
