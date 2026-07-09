@@ -1,9 +1,12 @@
 # Salutations 👋🖖
 
-Après 5 années d'exercices en tant qu'ergonome IHM - SST, j'ai fait le choix de m'orienter vers le secteur porteur de la tech.
-La programmation informatique, pourquoi ? Au cours de mon master, j'ai pu réaliser une année en tant qu'apprentie ergonome au sein de Vinci Construction France, j'ai également accompagné
-des équipes vers le changement de process organisationnel du travail, par l'implémentation d'une application digitale permettant de référencer les étapes de travaux de maintenance 
-dans les centrales nucléaires. Cette expérience mélant IHM et process du travail m'a donnée l'envie d'explorer ces concepts à travers la programmation informatique. Mes projets d'orientation professionnelle sont aujourd'hui la meilleure façon de faire le pont avec mes expériences professionnelles passées, en m'orientant vers le back-end axé sur l'IoT/système embarqué. Ajoutant à cela maintenant ma formation en tant qu'électronicienne banc de test et développement en apprentissage à l'ESTI. 
+Après plusieurs années d'expérience en tant qu'ergonome et ergothérapeute, j'ai choisi d'élargir mon champ de compétences vers les technologies numériques afin de contribuer à la conception de solutions innovantes, centrées sur les utilisateurs.
+
+Titulaire d'un Master en Ingénierie de la Santé, spécialité Ergonomie et Facteurs Humains, j'ai accompagné des projets de transformation organisationnelle et de digitalisation. L'une de ces expériences, menée chez VINCI Construction France autour de l'implémentation d'une application numérique destinée à optimiser les processus de maintenance en centrales nucléaires, a renforcé mon intérêt pour les interactions entre l'humain, les systèmes numériques et les technologies.
+
+Afin de mieux comprendre les technologies que j'accompagnais jusque-là du point de vue de l'usage, j'ai entrepris une formation en développement informatique, puis en électronique (Électronique Tests et Développement). Aujourd'hui, je développe des projets mêlant programmation, IoT et systèmes embarqués afin d'acquérir une vision complète, de la conception technique jusqu'à l'expérience utilisateur.
+
+Je m'intéresse particulièrement aux dispositifs médicaux, aux systèmes embarqués, à l'IoT et aux technologies de santé, avec l'ambition de contribuer à des projets où l'innovation technologique est mise au service de l'humain.
 
 8 choses sur moi :
 - 👨‍👧‍👦Passer du temps en famille m'est réconfortant 
